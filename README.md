@@ -19,6 +19,7 @@
 - dm_dawn
 - underground_city
 - ctf_dustycloud
+- ctf_aurochs
 
 ### Pushed to Official:
 - Break of day (some retouching needed)
