@@ -23,7 +23,7 @@
 
 ### Pushed to Official:
 - Break of day (some retouching needed)
-- dm_ancient (some retouching needed)
+- dm_ancient (released in 0.7 as **dm3**)
 
 ### Starred Maps:
 - dm_bambu (some retouching needed)
