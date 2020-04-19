@@ -20,6 +20,8 @@
 - underground_city
 - ctf_dustycloud
 - ctf_aurochs
+- ctf_taki
+- ctf_skyjungle
 
 ### Pushed to Official:
 - Break of day (some retouching needed)
