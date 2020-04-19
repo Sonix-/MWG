@@ -27,7 +27,7 @@
 - Break of day (some retouching needed)
 - dm_ancient (released in 0.7 as **dm3**)
 
-### Starred Maps:
+### Star Maps:
 - dm_bambu (some retouching needed)
 - dm_lazy (some retouching needed)
 
