@@ -23,7 +23,7 @@
 - ctf_taki
 - ctf_skyjungle
 - icywaters_ctf
-- pro6
+- pro6_dm
 
 ### Pushed to Official:
 - Break of day (some retouching needed)
