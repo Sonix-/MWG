@@ -22,6 +22,8 @@
 - ctf_aurochs
 - ctf_taki
 - ctf_skyjungle
+- icywaters_ctf
+- pro6
 
 ### Pushed to Official:
 - Break of day (some retouching needed)
